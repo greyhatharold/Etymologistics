@@ -116,7 +116,3 @@ This project is open to contributions! Please feel free to:
 - Improved similarity search
 - Better handling of compound words
 - Extended language family support
-
-## 📧 Contact
-
-[Add your contact information here] 
